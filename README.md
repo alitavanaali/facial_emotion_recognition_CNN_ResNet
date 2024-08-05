@@ -16,6 +16,9 @@ The FER2013 dataset contains grayscale images of faces, each with a dimension of
 
 The dataset is divided into a training set with 28,709 images and a public test set comprising 3,589 images.
 
+<img src="images/distribution.png"/>
+<br>
+
 ## Models
 In this project, I have explored the application of two different convolutional neural network architectures for the task of facial emotion recognition:
 
