@@ -1,6 +1,7 @@
 # FER2013-Facial Emotion Recognition
 
 <img src="images/happy.jpg" alt="UI 1" width="15%"/> <img src="images/output.png" alt="UI 2" width="30%"/>
+<br>
 <img src="images/sad.png" alt="UI 1" width="30%"/> <img src="images/surprise.png" alt="UI 2" width="30%"/>
 
 ## About the Dataset
