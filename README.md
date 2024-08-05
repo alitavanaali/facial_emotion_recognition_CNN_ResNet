@@ -34,3 +34,5 @@ To set up this project, you will need to install Python and the necessary librar
 pip install tensorflow keras numpy matplotlib
 ```
 Run the notebook!
+
+<img src="images/epoch_loss.png"/>
