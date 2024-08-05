@@ -1,6 +1,7 @@
 # FER2013-Facial Emotion Recognition
 
-<img src="images/happy.jpg" alt="UI 1" width="49%"/> <img src="images/output.png" alt="UI 2" width="49%"/>
+<img src="images/happy.jpg" alt="UI 1" width="15%"/> <img src="images/output.png" alt="UI 2" width="30%"/>
+<img src="images/sad.png" alt="UI 1" width="30%"/> <img src="images/surprise.png" alt="UI 2" width="30%"/>
 
 ## About the Dataset
 The FER2013 dataset contains grayscale images of faces, each with a dimension of 48x48 pixels. The images have been pre-processed to ensure that the faces are centered and occupy a consistent space across the dataset. The primary objective is to classify each image into one of seven emotional categories based on the facial expression portrayed. The categories are as follows:
@@ -29,6 +30,3 @@ To set up this project, you will need to install Python and the necessary librar
 pip install tensorflow keras numpy matplotlib
 ```
 Run the notebook!
-
-![Alt text for the image](images/happy.jpg)
-![Alt text for the image](images/output.png)
